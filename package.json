@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lib": "echo \"library\" ",
+    "release": "./release.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
