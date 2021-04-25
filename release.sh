@@ -9,7 +9,7 @@ read -p "please choose 1/2: " -t 30 num
 npm run lib
 
 # 发版
-npm publish
+# npm publish
 
 # 提交代码
 git add -A
@@ -29,4 +29,4 @@ case $num in
 esac
 
 # 推送代码
-git push origin develop
+git push origin master
