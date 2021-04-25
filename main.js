@@ -1,1 +1,1 @@
-console.log('test release.sh')
+console.log('test release.sh.')
